@@ -1,6 +1,6 @@
 # exercicio-git-1
 
-##A trindade:
+## A trindade:
 git add
 git commit
 git push
